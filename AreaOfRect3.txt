@@ -1,0 +1,19 @@
+package AssignmentQue;
+import java.util.Scanner;
+public class AreaOfRect3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+ Scanner sc=new Scanner(System.in);
+ System.out.println("enter the radius:");
+ float r=sc.nextFloat();
+ System.out.println("Area of circle="+3.14*r*r);
+	}
+
+}
+
+
+o/p: 
+enter the radius:
+5
+Area of circle=78.5
